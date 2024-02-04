@@ -45,8 +45,6 @@
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/SandeepVashishtha/SandeepVashishtha/output/dist/github-contribution-grid-snake.svg)
-
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sandeepvashishtha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sandeepvashishtha" /></a></p><br><br>
