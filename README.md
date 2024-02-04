@@ -45,7 +45,7 @@
 </div>
 
 
-![Snake animation](https://github.com/SandeepVashishtha/SandeepVashishtha/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/SandeepVashishtha/SandeepVashishtha/output/dist/github-contribution-grid-snake.svg)
 
 
 <h3 align="left">Support:</h3>
