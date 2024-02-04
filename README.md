@@ -4,9 +4,7 @@
 
 ###
 
-<div align="center">
   <img height="150" src=".github/pexels-abdullah-ghatasheh-1631677.jpg"  />
-</div>
 
 ###
 
