@@ -5,7 +5,7 @@
 
 <div>
 <h1 align="center">Hi 👋, I'm Sandeep Vashishtha</h1>
-<h3 align="center">A passionate Android developer</h3>
+<h3 align="center">A Passionate Android Developer</h3>
 </div>
 
 <h3 align="left">👩‍💻  About Me</h3>
