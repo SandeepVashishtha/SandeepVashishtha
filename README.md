@@ -34,7 +34,7 @@
 </div>
 
 
-
+<a href="https://wakatime.com/@4cd19b97-26c7-4594-acb3-eb53ad1ebff1"><img src="https://wakatime.com/badge/user/4cd19b97-26c7-4594-acb3-eb53ad1ebff1.svg" alt="Total time coded since Apr 30 2024" /></a>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sandeepvashishtha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sandeepvashishtha" /></a></p><br><br>
 
