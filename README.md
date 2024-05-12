@@ -2,11 +2,11 @@
   <img src="https://profile-counter.glitch.me/SandeepVashishtha/count.svg?"  />
 </div>
 
-
 <div>
-<h1 align="center">Hi 👋, I'm Sandeep Vashishtha</h1>
-<h3 align="center">A Passionate Android Developer</h3>
+  <h1 align="center">Hi 👋, I'm <i><s>Batman!</s></i>😉 Sandeep Vashishtha</h1>
+  <h3 align="center"><i><s>Protect Gotham City</s></i>  A Passionate Android Developer</h3>
 </div>
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
