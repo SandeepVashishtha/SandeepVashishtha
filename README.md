@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h1 align="center">Hi 👋, I'm <i><s>Batman!</s></i>😉 Sandeep Vashishtha</h1>
+  <h1 align="center">Hi 👋, I'm <i><s>Batman!</s></i> :) Sandeep Vashishtha</h1>
   <h3 align="center"><i><s>Protect Gotham City</s></i>  A Passionate Android Developer</h3>
 </div>
 
