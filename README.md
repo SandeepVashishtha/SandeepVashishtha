@@ -13,7 +13,7 @@
 
 ###
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science , Web3**
 
 - 💬 Ask me about **Cybersecurity , Android , Python**
 
