@@ -3,14 +3,18 @@
 </div>
 
 <div>
-  <h1 align="center">Hi 👋, I'm <i><s>Batman!</s></i> :) Sandeep Vashishtha</h1>
-  <h3 align="center">A Passionate Android Developer</h3>
+  <h1 align="center">Hi 👋, I'm <i><s>Batman!</s></i> Sandeep Vashishtha</h1>
+  <h3 align="center">A Passionate Full-Stack Developer</h3>
 </div>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3>👨‍💻 About Me</h3>
+<ul>
+  <li>🌱 Currently expanding my skills in <b>Data Science</b> and <b>Web3</b></li>
+  <li>💬 Feel free to ask me about <b>Cybersecurity, Web Development, and Java</b></li>
+  <li>🔧 Proficient in <b>JavaScript (React, Angular), Java</b></li>
+  <li>📜 Certified as an <b>Ethical Hacker</b></li>
+</ul>
 
-- 🌱 I’m currently learning **Data Science, Web3**
-- 💬 Ask me about **Cybersecurity, Android, Python**
 
 <h3 align="left">🔥   My Stats:</h3>
 
