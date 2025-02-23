@@ -9,9 +9,8 @@
 
 <h3>👨‍💻 About Me</h3>
 <ul>
-  <li>🌱 Currently expanding my skills in <b>Data Science</b> and <b>Web3</b></li>
   <li>💬 Feel free to ask me about <b>Cybersecurity, Web Development, and Java</b></li>
-  <li>🔧 Proficient in <b>JavaScript (React, Angular), Java</b></li>
+  <li>🔧 Proficient in <b>JavaScript(React), Java and SpringBoot</b></li>
   <li>📜 Certified as an <b>Ethical Hacker</b></li>
 </ul>
 
