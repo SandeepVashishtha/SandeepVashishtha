@@ -4,7 +4,7 @@
 
 <div>
   <h1 align="center">Hi 👋, I'm <i><s>Batman!</s></i> Sandeep Vashishtha</h1>
-  <h3 align="center">A Passionate Full-Stack Developer</h3>
+  <h3 align="center">I write code that runs everywhere—Even on your cat’s laptop!</h3>
 </div>
 
 <h3>👨‍💻 About Me</h3>
