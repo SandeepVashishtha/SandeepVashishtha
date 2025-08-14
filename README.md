@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SandeepVashishtha/count.svg?"  />
-</div>
+![](https://komarev.com/ghpvc/?username=sandeepvashishtha)
 
 <div>
   <h1 align="center">Hi 👋, I'm <i><s>Batman!</s></i> Sandeep Vashishtha</h1>
