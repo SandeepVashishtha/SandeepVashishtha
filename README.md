@@ -19,7 +19,7 @@
 
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepvashishtha&theme=dracula" alt="sandeepvashishtha" /></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SandeepVashishtha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SandeepVashishtha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&show=prs_merged,prs_merged_percentage&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SandeepVashishtha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
@@ -30,7 +30,6 @@
 <a href="https://wakatime.com/@4cd19b97-26c7-4594-acb3-eb53ad1ebff1">
   <img src="https://wakatime.com/badge/user/4cd19b97-26c7-4594-acb3-eb53ad1ebff1.svg" alt="Total time coded since Apr 30 2024" />
 </a>
-
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/sandeepvashishtha">
