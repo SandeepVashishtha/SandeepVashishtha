@@ -25,6 +25,7 @@
 
 [![An image of @sandeepvashishtha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sandeepvashishtha)](https://holopin.io/@sandeepvashishtha)
 <br><br>
+![LeetCode Contest Rating](https://img.shields.io/badge/dynamic/json?style=flat&label=Contest%20Rating&query=rating&url=https://leetcode-stats-api.herokuapp.com/sandeepvashishtha&color=blue)
 <a href="https://wakatime.com/@4cd19b97-26c7-4594-acb3-eb53ad1ebff1">
   <img src="https://wakatime.com/badge/user/4cd19b97-26c7-4594-acb3-eb53ad1ebff1.svg" alt="Total time coded since Apr 30 2024" />
 </a>
