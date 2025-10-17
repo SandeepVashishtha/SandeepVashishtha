@@ -5,12 +5,16 @@
   <h3 align="center">I write code that runs everywhere—Even on your cat’s laptop!</h3>
 </div>
 
-<h3>👨‍💻 About Me</h3>
-<ul>
-  <li>💬 Feel free to ask me about <b>Cybersecurity, Web Development, and Java</b></li>
-  <li>🔧 Proficient in <b>JavaScript(React), Java and SpringBoot</b></li>
-  <li>📜 Certified as an <b>Ethical Hacker</b></li>
-</ul>
+##  About Me  
+Hi, I'm **Sandeep Vashishtha** — a developer who writes code that occasionally behaves as expected :)   
+
+- **B.E. Computer Science and Engineering (2022–2026)** – *Chandigarh University*  
+- **Certified Ethical Hacker (CEH)**  
+- **Open-Source Contributor** | **GSSoC 2025 Project Admin**  
+- **Tech Stack:** React, Spring Boot, Java, MySQL  
+
+> I don't just fix bugs — I *adopt* them until they behave.
+
 
 
 <h3 align="left">🔥   My Stats:</h3>
