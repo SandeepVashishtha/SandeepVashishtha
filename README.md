@@ -8,8 +8,7 @@
 ##  About Me  
 Hi, I'm **Sandeep Vashishtha** — a developer who writes code that occasionally behaves as expected :)   
 
-- **B.E. Computer Science and Engineering (2022–2026)** – *Chandigarh University*  
-- **Certified Ethical Hacker (CEH)**  
+- **B.E. Computer Science and Engineering (2022–2026)** – *Chandigarh University*   
 - **Open-Source Contributor** | **GSSoC 2025 Project Admin**  
 - **Tech Stack:** React, Spring Boot, Java, MySQL  
 
