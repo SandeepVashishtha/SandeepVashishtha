@@ -19,7 +19,6 @@ Hi, I'm **Sandeep Vashishtha** — a developer who writes code that occasionally
 <h3 align="left">🔥   My Stats:</h3>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepvashishtha&theme=dracula" alt="sandeepvashishtha" /></p>
 
   <img src="https://github-readme-stats-smoky-iota-97.vercel.app/api?username=SandeepVashishtha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
 
