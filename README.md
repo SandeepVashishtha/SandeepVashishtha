@@ -1,4 +1,8 @@
-![](https://komarev.com/ghpvc/?username=sandeepvashishtha)
+![](https://komarev.com/ghpvc/?username=sandeepvashishtha) 
+![LeetCode Contest Rating](https://leet-code-contest-rating.vercel.app/api/rating?username=sandeepvashishtha)
+<a href="https://wakatime.com/@4cd19b97-26c7-4594-acb3-eb53ad1ebff1">
+  <img src="https://wakatime.com/badge/user/4cd19b97-26c7-4594-acb3-eb53ad1ebff1.svg" alt="Total time coded since Apr 30 2024" />
+</a>
 
 <div>
   <h1 align="center">Hi 👋, I'm <i><s>Batman!</s></i> Sandeep Vashishtha</h1>
@@ -29,11 +33,8 @@ Hi, I'm **Sandeep Vashishtha** — a developer who writes code that occasionally
 ### Holopin Badges
 
 [![An image of @sandeepvashishtha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sandeepvashishtha)](https://holopin.io/@sandeepvashishtha)
-<br><br>
-![Contest Rating](https://leet-code-contest-rating.vercel.app/api/rating?username=sandeepvashishtha)
-<a href="https://wakatime.com/@4cd19b97-26c7-4594-acb3-eb53ad1ebff1">
-  <img src="https://wakatime.com/badge/user/4cd19b97-26c7-4594-acb3-eb53ad1ebff1.svg" alt="Total time coded since Apr 30 2024" />
-</a>
+<br>
+
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/sandeepvashishtha">
