@@ -1,13 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=sandeepvashishtha) 
 ![LeetCode Contest Rating](https://leet-code-contest-rating.vercel.app/api/rating?username=sandeepvashishtha)
-
 <a href="https://wakatime.com/@4cd19b97-26c7-4594-acb3-eb53ad1ebff1">
   <img src="https://wakatime.com/badge/user/4cd19b97-26c7-4594-acb3-eb53ad1ebff1.svg" alt="Total time coded since Apr 30 2024" />
 </a>
 
 <div>
   <h1 align="center">Hi, I am <i><s>Batman!</s></i> Sandeep Vashishtha</h1>
-  <h3 align="center">I build code that runs everywhere, even on your cat’s laptop</h3>
+  <h3 align="center">I write code that runs everywhere, even on your cat’s laptop</h3>
 </div>
 
 ## About Me  
