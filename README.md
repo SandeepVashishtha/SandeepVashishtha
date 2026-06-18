@@ -10,10 +10,10 @@
 </div>
 
 ## About Me  
-Hi, I am **Sandeep Vashishtha**, a developer who writes code that sometimes works exactly as planned  
+Hi, I am **Sandeep Vashishtha**, a Software Engineer who writes code that sometimes works exactly as planned  
 
-- **B.E. Computer Science and Engineering (2022–2026)** – Chandigarh University  
-- **Open Source Contributor** | **GSSoC 2025 Project Admin**  
+- **B.E. Computer Science and Engineering**  
+- **Open Source Contributor**
 - **Tech Stack:** React, Spring Boot, Java, MySQL  
 
 > I do not just fix bugs, I stick with them until they start acting right  
